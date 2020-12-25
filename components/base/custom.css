@@ -1,0 +1,53 @@
+.mw-max {
+    max-width: max-content !important;
+    margin-top: 100px;
+    text-align: left;
+}
+
+.ma-all {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+}
+
+.cf-head {
+    font-weight: bold !important;
+}
+.cf-head:hover {
+    color: #ffffff;
+    font-weight: bold !important;
+}
+
+.rd-navbar-fullwidth.rd-navbar-creative .cf-logo {
+    margin-top: 10px !important;
+}
+
+.cf-head-2 {
+    font-weight: 500 !important;
+    color: white !important;
+}
+
+.cf-head-2:hover {
+    color: white !important;
+}
+
+.cf-head-3 {
+    font-weight: bold !important;
+    color: #ffffff !important;
+}
+
+.header-custom {
+    background: linear-gradient(115.21deg, #6f5d86 2.05%, #9d769f 17.79%, #b27eb2 27.53%, #d17f7b 44.74%, #8a5c7d 100%) !important;
+}
+
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.jc-center {
+    justify-content: center;
+    margin-top: 20px !important;
+} 
+
+.cmt-carrousel {
+    margin-top: 3rem !important;
+}
